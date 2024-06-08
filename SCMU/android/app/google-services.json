@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "604640462956",
+    "firebase_url": "https://scmu-2ac12-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "scmu-2ac12",
+    "storage_bucket": "scmu-2ac12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604640462956:android:600cfc2c81e3faa7f47049",
+        "android_client_info": {
+          "package_name": "com.example.scmu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa7qe_7MS-QlWHWBrkFyredfbT9PfSocE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
